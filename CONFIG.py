@@ -9,7 +9,7 @@ TOKEN = "5052168733:AAHoUF55cRjawAOR6TBy40EvSzvS7jiWSn0"
 ADMINS = [1603926712]
 
 # Insert absolute path to database file (.db)
-DATABASE_PATH = ""
+DATABASE_PATH = "True"
 
 # Goo.gl API key. Get it one from https://console.developers.google.com/
 GOOGLE_API_KEY = ""
